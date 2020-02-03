@@ -9,3 +9,7 @@
 - [Kurssitiedot Javascript](https://github.com/KalliMiika/palautusrepo/blob/master/osa1/kurssitiedot/src/index.js)
 - [Unicafe Javascript](https://github.com/KalliMiika/palautusrepo/blob/master/osa1/unicafe/src/index.js)
 - [Anekdootit Javascript](https://github.com/KalliMiika/palautusrepo/blob/master/osa1/anekdootit/src/index.js)
+
+## Osa 2
+- [Kurssitiedot](https://github.com/KalliMiika/palautusrepo/tree/master/osa2/kurssitiedot/src)
+- [puhelinluettelo](https://github.com/KalliMiika/palautusrepo/tree/master/osa2/puhelinluettelo/src)
