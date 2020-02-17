@@ -13,3 +13,6 @@
 ## Osa 2
 - [Kurssitiedot](https://github.com/KalliMiika/palautusrepo/tree/master/osa2/kurssitiedot/src)
 - [puhelinluettelo](https://github.com/KalliMiika/palautusrepo/tree/master/osa2/puhelinluettelo/src)
+
+## Osa 4
+- [Blogilista](https://github.com/KalliMiika/palautusrepo/tree/master/osa4/blogilista)
