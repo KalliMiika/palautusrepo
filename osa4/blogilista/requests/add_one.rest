@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3RhYWphIiwiaWQiOiI1ZTRiMDAyYmJhZGIyMjEzYTA1MTgyMTMiLCJpYXQiOjE1ODE5NzM1NzV9._IuDrYnFYTncANsP17-9DVF37tFY40xUU3_8ezvPMxs
+
+{
+    "title": "Spanish Flea",
+    "author": "Herp Alpertti",
+    "url": "eitjuutuupist.com"
+}

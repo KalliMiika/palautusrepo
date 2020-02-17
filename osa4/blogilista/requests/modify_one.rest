@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5e4aed09c8cac804c04e32bf
+Content-Type: application/json
+
+{
+    "title": "Huuko",
+    "author": "006205",
+    "url": "juutussupeli.com",
+    "likes": 1338
+}
