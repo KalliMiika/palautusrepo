@@ -16,3 +16,6 @@
 
 ## Osa 4
 - [Blogilista](https://github.com/KalliMiika/palautusrepo/tree/master/osa4/blogilista)
+
+## Osa 5
+- [Blogilista Front-end](https://github.com/KalliMiika/palautusrepo/tree/master/osa5)
