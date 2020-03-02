@@ -19,3 +19,7 @@
 
 ## Osa 5
 - [Blogilista Front-end](https://github.com/KalliMiika/palautusrepo/tree/master/osa5)
+
+## Osa 6
+- [unicafe](https://github.com/KalliMiika/palautusrepo/tree/master/osa6/unicafe-redux-master)
+- [anekdootit](https://github.com/KalliMiika/palautusrepo/tree/master/osa6/redux-anecdotes-master)
