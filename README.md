@@ -23,3 +23,9 @@
 ## Osa 6
 - [unicafe](https://github.com/KalliMiika/palautusrepo/tree/master/osa6/unicafe-redux-master)
 - [anekdootit](https://github.com/KalliMiika/palautusrepo/tree/master/osa6/redux-anecdotes-master)
+
+## Osa 7
+- [anekdootit](https://github.com/KalliMiika/palautusrepo/tree/master/Osa7/routed-anecdotes-master)
+
+## Osa 8
+- [kirjasto](https://github.com/KalliMiika/palautusrepo/tree/master/osa8)
